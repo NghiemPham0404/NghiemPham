@@ -25,6 +25,8 @@ I am a passionate mobile developer with a strong foundation in both native and c
 
 2. Mobile & Frontend Development
 
+-Android Native App (Java, Kotlin - Android Jetpack Compose)
+
 -Flutter
 
 3. Backend & Frameworks
@@ -46,7 +48,9 @@ I am a passionate mobile developer with a strong foundation in both native and c
 5. Design & Modeling
 
 -Draw.io
+
 -Figma
+
 -DBML-Database Markup Language
 
 6. Testing & Debugging
